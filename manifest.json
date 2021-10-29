@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "All-in-one digital content management tool for established creators and brands.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "relume.co",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "relume.co",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "images/1250x1250.png",
+      "type": "image/png",
+      "sizes": "1250x1250"
+    }
+  ]
+}
